@@ -85,5 +85,3 @@ def get_chats_title(limit):
 
 # print(get_chat_info(906653657))
 
-
-get_chats_title(10)
